@@ -84,8 +84,7 @@ crypto-stegano-toolkit/
 
 ## 🙌 Credits
 
-Developed by **Rudra**
-B.Tech CSE (AI & ML) Final Year
+Developed by **Rudrasatani**
 *Crafted with love for security and UI design* ❤️
 
 ---
