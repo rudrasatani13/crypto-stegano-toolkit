@@ -34,7 +34,7 @@ A pastel-themed GUI application that combines cryptography and steganography tec
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/your-username/crypto-stegano-toolkit.git
+   git clone https://github.com/rudrasatani13/crypto-stegano-toolkit.git
    cd crypto-stegano-toolkit
    ```
 
