@@ -64,10 +64,8 @@ A pastel-themed GUI application that combines cryptography and steganography tec
 ---
 
 ## 📸 Screenshots (optional)
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/83acb834-fbf5-4940-b192-a7fb2ea3855c" />
 
-> *Add screenshots of the GUI here*
-
----
 
 ## 📁 Project Structure
 
